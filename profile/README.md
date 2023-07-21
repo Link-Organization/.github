@@ -1,8 +1,11 @@
 ## Hi there 👋
 
 Welcome to the sample organization.
+
 Navigate to discussions [here](https://github.com/orgs/Link-Organization/discussions).
+
 Create a free Github account [here](https://github.com/signup?). 
+
 Start interacting with the community!
 <!--
 
